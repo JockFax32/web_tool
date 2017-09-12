@@ -1,0 +1,44 @@
+.jumbotron.container-fluid div {
+    font-family: "proxima-nova";
+    font-size: 45px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-weight: 600;
+    font-style: normal;
+
+}
+.jumbotron.container-fluid div p {
+    margin-bottom: 0px;
+    font-size: 25px;
+    text-transform: capitalize; 
+}
+
+.page.container {
+    padding-right: 0px;
+    padding-left: 0px;
+}
+
+#padding {
+    padding-bottom: 50%;
+}
+
+#submit {
+    margin-top: 50px;
+}
+
+
+
+/*-------- NOTES ------------
+
+.jumbotron.container-fluid {
+    background-color: #41C6EE
+}
+
+body {
+    background-color: #F2F2F2;
+}
+
+background-color: #FFFFFF; (.page.container)
+
+
+*/
